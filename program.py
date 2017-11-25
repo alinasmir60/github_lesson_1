@@ -1,2 +1,3 @@
 #! /usr/bit/python3
-print('My first Git program!!!')
+# Author is Alina Smirnova
+print('Hello, Python!')
